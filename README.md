@@ -1,3 +1,4 @@
+# World Inflation Data
 # 1. Header
 World Inflation Data \
 Spring 2025 Data Science Project \
@@ -33,4 +34,4 @@ The visualizations can be found in sections Visualization: ML 1, Visualization: 
 and Visualization: ML 3. 
 
 # 7.	Insights and Conclusions
-Each analysis has its own conclusions about the data. Overall, there is a small correlation between inflation rate and GDP but no correlation between CPI and inflation. Additionally, countries can have similar inflation trends but also be affected differently by the recession. Throughout the notebook there are links to help an uninformed reader better understand. Through our analysis, an informed reader may learn more about the global inflation rate and the general economic state of the world. """
+Each analysis has its own conclusions about the data. Overall, there is a small correlation between inflation rate and GDP but no correlation between CPI and inflation. Additionally, countries can have similar inflation trends but also be affected differently by the recession. Throughout the notebook there are links to help an uninformed reader better understand. Through our analysis, an informed reader may learn more about the global inflation rate and the general economic state of the world. 
