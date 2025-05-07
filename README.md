@@ -14,11 +14,11 @@ Tony Zhang: He did one of the statistical tests (Corruption Index: Linear Regres
 Our topic is exploring the Global Inflation Rates and how they relate to corruption perception index and GDP from 1960 to present. Some questions we want to answer: Were different regions affected differently during the Great Recession from 2007 to 2009? Is there a linear relationship between a country’s corruption perception index and its inflation? Is there a correlation between a country’s inflation rate and GDP? Which countries and subregions have similar inflation trends? Can we accurately predict the 2024 inflation and GDP? It is important to answer these to have a better understanding of the global economy and how countries and regions are similar and different. We can use these patterns to predict the future economy. 
 
 # 3.	Data Curation
-Global Inflation Data: https://www.kaggle.com/datasets/fredericksalazar/global-inflation-rate-1960-present This includes data from 1960 to 2023 with the inflation rate of each country for each year. It also includes the subregions. \
-Global Corruption Data: https://www.kaggle.com/datasets/tr1gg3rtrash/global-corruption-index This dataset has the corruption index for 180 countries from 2013 to 2021. \
-GDP: https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022
+**Global Inflation Data:** https://www.kaggle.com/datasets/fredericksalazar/global-inflation-rate-1960-present This includes data from 1960 to 2023 with the inflation rate of each country for each year. It also includes the subregions. \
+**Global Corruption Data:** https://www.kaggle.com/datasets/tr1gg3rtrash/global-corruption-index This dataset has the corruption index for 180 countries from 2013 to 2021. \
+**GDP:** https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022
 This dataset includes 180 countries and their GDPs for each year from 1999 to 2022. \
-Inflation GDP Data: Merged Dataset from the ones above including inflation and GDP. \
+**Inflation GDP Data:** Merged Dataset from the ones above including inflation and GDP. \
 The data transformation and database set up is in the Data Curation section of the Jupyter Notebook.
 
 # 4.	Exploratory data analysis
