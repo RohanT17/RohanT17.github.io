@@ -3,7 +3,7 @@
 ## Spring 2025 Data Science Project
 ## Erica Honadel, Livia Earl, Abhyuday Srivatsa, Tony Zhang, Rohan Tadisetty
 ## Contributions:
-Everyone: Helped worked on the project ideas (A). 
+Everyone: Helped worked on the project ideas (A). \
 Livia Earl: She did the dataset curation and preprocessing (B), where the data was cleaned (deleting rows because they were missing not at random). Additionally, she did the data exploration and summary statistics (C) to get a better understanding of the dataset and the final tutorial report creation (G). The report includes finding helpful links and editing the Jupyter Notebook. \
 Erica Honadel: She did one of the statistical tests (ANOVA) (C). She also did the visualization (F) for ML 1 and ML 2 algorithms. \
 Rohan Tadisetty: He did the visualizations for each of the statistical tests (F) and the ML random forest model (ML 3) (D and E). \
