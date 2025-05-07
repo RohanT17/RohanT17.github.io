@@ -1,6 +1,6 @@
 # 1. Header
-World Inflation Data 
-Spring 2025 Data Science Project
+World Inflation Data \
+Spring 2025 Data Science Project \
 Erica Honadel, Livia Earl, Abhyuday Srivatsa, Tony Zhang, Rohan Tadisetty
 ## Contributions:
 Everyone: Helped worked on the project ideas (A). \
