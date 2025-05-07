@@ -4,8 +4,8 @@
 ## Erica Honadel, Livia Earl, Abhyuday Srivatsa, Tony Zhang, Rohan Tadisetty
 ## Contributions:
 Everyone: Helped worked on the project ideas (A). 
-Livia Earl: She did the dataset curation and preprocessing (B), where the data was cleaned (deleting rows because they were missing not at random). Additionally, she did the data exploration and summary statistics (C) to get a better understanding of the dataset and the final tutorial report creation (G). The report includes finding helpful links and editing the Jupyter Notebook. 
-Erica Honadel: She did one of the statistical tests (ANOVA) (C). She also did the visualization (F) for ML 1 and ML 2 algorithms. 
+Livia Earl: She did the dataset curation and preprocessing (B), where the data was cleaned (deleting rows because they were missing not at random). Additionally, she did the data exploration and summary statistics (C) to get a better understanding of the dataset and the final tutorial report creation (G). The report includes finding helpful links and editing the Jupyter Notebook. \
+Erica Honadel: She did one of the statistical tests (ANOVA) (C). She also did the visualization (F) for ML 1 and ML 2 algorithms. \
 Rohan Tadisetty: He did the visualizations for each of the statistical tests (F) and the ML random forest model (ML 3) (D and E).
 Abhyuday Srivatsa: He did one of the statistical tests (GDP: Pearson Correlation) (C) He also did the visualization (F) for ML 3 algorithm. 
 Tony Zhang: He did one of the statistical tests (Corruption Index: Linear Regression) (C) and the ML k-means clustering models (ML 1 and ML 2) (D and E).
