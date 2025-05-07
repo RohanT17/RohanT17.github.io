@@ -1,7 +1,7 @@
 # 1. Header
-## World Inflation Data 
-## Spring 2025 Data Science Project
-## Erica Honadel, Livia Earl, Abhyuday Srivatsa, Tony Zhang, Rohan Tadisetty
+World Inflation Data 
+Spring 2025 Data Science Project
+Erica Honadel, Livia Earl, Abhyuday Srivatsa, Tony Zhang, Rohan Tadisetty
 ## Contributions:
 Everyone: Helped worked on the project ideas (A). \
 Livia Earl: She did the dataset curation and preprocessing (B), where the data was cleaned (deleting rows because they were missing not at random). Additionally, she did the data exploration and summary statistics (C) to get a better understanding of the dataset and the final tutorial report creation (G). The report includes finding helpful links and editing the Jupyter Notebook. \
